@@ -31,6 +31,12 @@ If you ask a question the agent doesn't understand (e.g., "What is the meaning o
 
 ---
 
+## Output 
+<img width="633" height="852" alt="image" src="https://github.com/user-attachments/assets/4bf459bb-2337-4286-884f-0cf49a9e8a64" />
+
+---
+
+
 ## 🛠️ Architecture
 
 *   **Frontend**: A modern, responsive HTML/JS interface (`demo_ui.html`) with professional styling, suggestion chips, and dynamic data tables.
